@@ -1,0 +1,21 @@
+.navbar {
+  background-color: rgb(43, 43, 43);
+  color: white;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  font-size: 13px;
+}
+.contents {
+  margin: auto;
+  width: 900px;
+}
+.nav-contents {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.nav-elements {
+  margin-right: 10px;
+  cursor: pointer;
+}
